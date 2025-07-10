@@ -62,20 +62,6 @@ def hora_valida(rango_str):
 
 def monitor_shifts(driver):
     dias_permitidos = [
-    "Monday, Jun  30.",
-    "Tuesday, Jul  1.",
-    "Wednesday, Jul  2.",
-    "Thursday, Jul  3.",
-    "Friday, Jul  4.",
-    "Saturday, Jul  5.",
-    "Sunday, Jul  6.",
-    "Monday, Jul  7.",
-    "Tuesday, Jul  8.",
-    "Wednesday, Jul  9.",
-    "Thursday, Jul  10.",
-    "Friday, Jul  11.",
-    "Saturday, Jul  12.",
-    "Sunday, Jul  13.",
     "Monday, Jul  14.",
     "Tuesday, Jul  15.",
     "Wednesday, Jul  16.",
